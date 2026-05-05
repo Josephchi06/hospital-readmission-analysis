@@ -1,17 +1,17 @@
 # 🏥 Hospital 30-Day Readmission Analysis
 
-## 📑 Table of Contents
-- [Overview](#-overview)
-- [Business Problem](#-business-problem)
-- [Dataset](#-dataset)
-- [Data Cleaning & Preparation](#-data-cleaning--preparation)
-- [Business Questions](#-business-questions)
-- [Key Metrics](#-key-metrics)
-- [Analysis & Insights](#-analysis--insights)
-- [Dashboard](#-dashboard)
-- [Tools Used](#-tools-used)
-- [Key Takeaways](#-key-takeaways)
-- [Recommendations](#-Recommendations)
+## Table of Contents
+- [Overview](#overview)
+- [Business Problem](#business-problem)
+- [Dataset](#dataset)
+- [Data Cleaning & Preparation](#data-cleaning--preparation)
+- [Business Questions](#business-questions)
+- [Key Metrics](#key-metrics)
+- [Analysis & Insights](#analysis--insights)
+- [Dashboard](#dashboard)
+- [Tools Used](#tools-used)
+- [Key Takeaways](#key-takeaways)
+- [Recommendations](#recommendations)
 
 ##  Overview
 This project analyzes 30-day hospital readmissions using over 100,000 patient encounters to identify key factors influencing patient return rates. The analysis focuses on understanding how patient demographics, hospital stay characteristics, and prior admission history contribute to readmission risk, with the aim of improving patient care and identifying high-risk groups.
@@ -40,6 +40,24 @@ The dataset used for this analysis is the **Diabetes 130-US Hospitals dataset**,
 - Readmission status
 
 ----
+
+## Data Cleaning & Preparation
+The dataset was cleaned and transformed in Power BI to ensure accurate and meaningful analysis.
+
+### Key Steps:
+- Removed duplicate records to maintain data integrity  
+- Handled missing and invalid values in key columns  
+- Created a **Readmission Status** column to classify patients as readmitted or not  
+- Converted categorical values into meaningful groups for better analysis  
+
+### Feature Engineering:
+- **Age Category**: Grouped into Teen, Youth, Adult, and Senior  
+- **Stay Category**: Classified into Short Stay and Long Stay  
+- **Inpatient Category**: Grouped into First-Time, Low, Medium, and High frequency patients  
+- **Diagnosis Group**: Converted ICD codes into readable medical condition categories
+
+
+---
 
   ## Business Questions
 The analysis focuses on answering the following key questions:
