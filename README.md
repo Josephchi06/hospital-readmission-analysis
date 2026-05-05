@@ -23,7 +23,7 @@ This project aims to analyze patient, treatment, and hospital factors that contr
 
 ----
 
-## 📊 Dataset
+## Dataset
 The dataset used for this analysis is the **Diabetes 130-US Hospitals dataset**, which contains over 100,000 patient encounters collected from multiple hospitals in the United States between 1999 and 2008.
 
 - Records: 101,766  
