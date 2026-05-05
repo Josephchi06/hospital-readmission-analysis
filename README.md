@@ -1,5 +1,18 @@
 # 🏥 Hospital 30-Day Readmission Analysis
 
+## 📑 Table of Contents
+- [Overview](#-overview)
+- [Business Problem](#-business-problem)
+- [Dataset](#-dataset)
+- [Data Cleaning & Preparation](#-data-cleaning--preparation)
+- [Business Questions](#-business-questions)
+- [Key Metrics](#-key-metrics)
+- [Analysis & Insights](#-analysis--insights)
+- [Dashboard](#-dashboard)
+- [Tools Used](#-tools-used)
+- [Key Takeaways](#-key-takeaways)
+- [Recommendations](#-Recommendations)
+
 ##  Overview
 This project analyzes 30-day hospital readmissions using over 100,000 patient encounters to identify key factors influencing patient return rates. The analysis focuses on understanding how patient demographics, hospital stay characteristics, and prior admission history contribute to readmission risk, with the aim of improving patient care and identifying high-risk groups.
 
@@ -105,5 +118,16 @@ Insight: Length of stay reflects patient complexity rather than discharge timing
 - High-frequency patients (≈40%) represent the most critical group for targeted intervention  
 - Longer hospital stays reflect higher patient complexity rather than early discharge issues  
 - Youth patients show unexpectedly higher readmission rates compared to other age groups  
-- Medical condition contributes to readmission risk, with diabetes patients showing the highest rates  
+- Medical condition contributes to readmission risk, with diabetes patients showing the highest rates
+
+----
+
+## Recommendations
+Based on the analysis, the following actions are recommended to reduce hospital readmissions and improve patient outcomes:
+
+- **Target High-Risk Patients:** Focus on patients with multiple prior inpatient visits, as they show significantly higher readmission rates  
+- **Enhance Post-Discharge Care:** Implement structured follow-up plans for patients with long hospital stays to ensure proper recovery  
+- **Improve Patient Education:** Provide clear guidance to younger patients on medication adherence and follow-up care  
+- **Monitor Chronic Conditions Closely:** Prioritize diabetes patients for continuous monitoring and support due to their higher readmission risk  
+- **Develop Preventive Care Programs:** Introduce early intervention strategies to reduce repeated hospital admissions  
   
