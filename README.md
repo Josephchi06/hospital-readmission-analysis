@@ -85,3 +85,7 @@ Insight: Length of stay reflects patient complexity rather than discharge timing
 
  Insight: Medical condition contributes to readmission risk, with diabetes patients showing the highest likelihood of return, though differences across conditions remain moderate compared to patient history.
 
+ ----
+ ## 📊 Dashboard
+![Dashboard](hospital_dashboard.png)
+
