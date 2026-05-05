@@ -86,6 +86,24 @@ Insight: Length of stay reflects patient complexity rather than discharge timing
  Insight: Medical condition contributes to readmission risk, with diabetes patients showing the highest likelihood of return, though differences across conditions remain moderate compared to patient history.
 
  ----
- ## 📊 Dashboard
-![Dashboard](hospital_dashboard.png)
+ ## Dashboard
+![Dashboard](Hospital%20dashboard.jpg)
 
+----
+
+## Tools Used
+- Power BI  
+- DAX (Data Analysis Expressions)  
+- Data Cleaning & Transformation (Power Query)  
+- Data Visualization & Dashboard Design
+
+ 
+ -----
+
+ ## Key Takeaways
+- Prior inpatient history is the strongest predictor of readmission risk  
+- High-frequency patients (≈40%) represent the most critical group for targeted intervention  
+- Longer hospital stays reflect higher patient complexity rather than early discharge issues  
+- Youth patients show unexpectedly higher readmission rates compared to other age groups  
+- Medical condition contributes to readmission risk, with diabetes patients showing the highest rates  
+  
